@@ -1,0 +1,44 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /~G7719/WebApplication4/WebApplication4/bin</title>
+ </head>
+ <body>
+<h1>Index of /~G7719/WebApplication4/WebApplication4/bin</h1>
+<table><tr><th><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=D">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr><tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[DIR]"></td><td><a href="/~G7719/WebApplication4/WebApplication4/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="WebApplication4.dll.config">WebApplication4.dll.config</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">4.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="AspNet.ScriptManager.jQuery.dll">AspNet.ScriptManager.jQuery.dll</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">5.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="AspNet.ScriptManager.jQuery.UI.Combined.dll">AspNet.ScriptManager.jQuery.UI.Combined.dll</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">6.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Microsoft.ScriptManager.WebForms.dll">Microsoft.ScriptManager.WebForms.dll</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right"> 13K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Microsoft.ScriptManager.MSAjax.dll">Microsoft.ScriptManager.MSAjax.dll</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right"> 15K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="Microsoft.AspNet.FriendlyUrls.xml">Microsoft.AspNet.FriendlyUrls.xml</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right"> 16K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="DotNetOpenAuth.OAuth.Consumer.dll">DotNetOpenAuth.OAuth.Consumer.dll</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right"> 18K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Microsoft.AspNet.Web.Optimization.WebForms.dll">Microsoft.AspNet.Web.Optimization.WebForms.dll</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right"> 20K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="DotNetOpenAuth.OAuth.Consumer.xml">DotNetOpenAuth.OAuth.Consumer.xml</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right"> 25K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="WebApplication4.dll">WebApplication4.dll</a></td><td align="right">16-Dec-2014 16:29  </td><td align="right"> 25K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="Microsoft.AspNet.Membership.OpenAuth.xml">Microsoft.AspNet.Membership.OpenAuth.xml</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right"> 25K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="DotNetOpenAuth.AspNet.dll">DotNetOpenAuth.AspNet.dll</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right"> 40K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Microsoft.AspNet.FriendlyUrls.dll">Microsoft.AspNet.FriendlyUrls.dll</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right"> 44K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Microsoft.Web.Infrastructure.dll">Microsoft.Web.Infrastructure.dll</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right"> 44K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Microsoft.AspNet.Membership.OpenAuth.dll">Microsoft.AspNet.Membership.OpenAuth.dll</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right"> 46K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="System.Web.Optimization.dll">System.Web.Optimization.dll</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right"> 54K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="DotNetOpenAuth.OAuth.dll">DotNetOpenAuth.OAuth.dll</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right"> 55K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="DotNetOpenAuth.AspNet.xml">DotNetOpenAuth.AspNet.xml</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right"> 83K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="WebApplication4.pdb">WebApplication4.pdb</a></td><td align="right">16-Dec-2014 16:29  </td><td align="right"> 84K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="DotNetOpenAuth.OpenId.RelyingParty.dll">DotNetOpenAuth.OpenId.RelyingParty.dll</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right"> 88K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="DotNetOpenAuth.OAuth.xml">DotNetOpenAuth.OAuth.xml</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">102K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Antlr3.Runtime.dll">Antlr3.Runtime.dll</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">103K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="DotNetOpenAuth.OpenId.RelyingParty.xml">DotNetOpenAuth.OpenId.RelyingParty.xml</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">220K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="DotNetOpenAuth.Core.dll">DotNetOpenAuth.Core.dll</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">222K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="DotNetOpenAuth.OpenId.dll">DotNetOpenAuth.OpenId.dll</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">262K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="System.Web.Providers.dll">System.Web.Providers.dll</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">264K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="DotNetOpenAuth.Core.xml">DotNetOpenAuth.Core.xml</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">586K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="DotNetOpenAuth.OpenId.xml">DotNetOpenAuth.OpenId.xml</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">617K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="WebGrease.dll">WebGrease.dll</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">941K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="EntityFramework.dll">EntityFramework.dll</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">1.1M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="EntityFramework.xml">EntityFramework.xml</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">1.1M</td><td>&nbsp;</td></tr>
+<tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.2.15 (CentOS) Server at student.labranet.jamk.fi Port 80</address>
+</body></html>

@@ -1,0 +1,56 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /~G7719/WebApplication4/WebApplication4</title>
+ </head>
+ <body>
+<h1>Index of /~G7719/WebApplication4/WebApplication4</h1>
+<table><tr><th><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=D">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr><tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[DIR]"></td><td><a href="/~G7719/WebApplication4/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="Account/">Account/</a></td><td align="right">16-Dec-2014 16:20  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="App_Data/">App_Data/</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="App_Start/">App_Start/</a></td><td align="right">16-Dec-2014 16:20  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="Content/">Content/</a></td><td align="right">16-Dec-2014 16:20  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="Images/">Images/</a></td><td align="right">16-Dec-2014 16:20  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="Properties/">Properties/</a></td><td align="right">16-Dec-2014 16:20  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="Scripts/">Scripts/</a></td><td align="right">16-Dec-2014 16:20  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="bin/">bin/</a></td><td align="right">16-Dec-2014 16:20  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="obj/">obj/</a></td><td align="right">16-Dec-2014 16:20  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Global.asax">Global.asax</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right"> 99 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="ViewSwitcher.ascx">ViewSwitcher.ascx</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">251 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="About.aspx.cs">About.aspx.cs</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">320 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Contact.aspx.cs">Contact.aspx.cs</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">322 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Default.aspx.cs">Default.aspx.cs</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">323 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Site.Mobile.Master.cs">Site.Mobile.Master.cs</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">343 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Sukupuoli.cs">Sukupuoli.cs</a></td><td align="right">15-Dec-2014 14:25  </td><td align="right">377 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Asuntotyyppi.cs">Asuntotyyppi.cs</a></td><td align="right">15-Dec-2014 14:25  </td><td align="right">383 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="Contact.aspx.designer.cs">Contact.aspx.designer.cs</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">452 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="About.aspx.designer.cs">About.aspx.designer.cs</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">454 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="Default.aspx.designer.cs">Default.aspx.designer.cs</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">457 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="ViewSwitcher.ascx.designer.cs">ViewSwitcher.ascx.designer.cs</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">460 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Asunto.cs">Asunto.cs</a></td><td align="right">15-Dec-2014 14:25  </td><td align="right">523 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Site.Mobile.Master">Site.Mobile.Master</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">878 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Global.asax.cs">Global.asax.cs</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">887 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Bundle.config">Bundle.config</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">1.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="About.aspx">About.aspx</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">1.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="WebApplication4.csproj.user">WebApplication4.csproj.user</a></td><td align="right">15-Dec-2014 14:27  </td><td align="right">1.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="Web.Debug.config">Web.Debug.config</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">1.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="Web.Release.config">Web.Release.config</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">1.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="Site.Master.designer.cs">Site.Master.designer.cs</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">1.4K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Contact.aspx">Contact.aspx</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">1.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="ViewSwitcher.ascx.cs">ViewSwitcher.ascx.cs</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">1.6K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="Site.Mobile.Master.designer.cs">Site.Mobile.Master.designer.cs</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">1.8K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="packages.config">packages.config</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">2.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="Default.aspx">Default.aspx</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">2.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="Site.Master.cs">Site.Master.cs</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">2.6K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Site.Master">Site.Master</a></td><td align="right">15-Dec-2014 14:21  </td><td align="right">4.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="Web.config">Web.config</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right">4.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="NaytaHenkilot.aspx.designer.cs">NaytaHenkilot.aspx.designer.cs</a></td><td align="right">15-Dec-2014 17:03  </td><td align="right">8.8K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="NaytaHenkilot.aspx.cs">NaytaHenkilot.aspx.cs</a></td><td align="right">16-Dec-2014 16:29  </td><td align="right">9.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="NaytaHenkilot.aspx">NaytaHenkilot.aspx</a></td><td align="right">15-Dec-2014 17:05  </td><td align="right"> 10K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="WebApplication4.csproj">WebApplication4.csproj</a></td><td align="right">15-Dec-2014 14:27  </td><td align="right"> 21K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="favicon.ico">favicon.ico</a></td><td align="right">15-Dec-2014 14:18  </td><td align="right"> 31K</td><td>&nbsp;</td></tr>
+<tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.2.15 (CentOS) Server at student.labranet.jamk.fi Port 80</address>
+</body></html>

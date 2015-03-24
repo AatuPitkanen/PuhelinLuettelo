@@ -1,0 +1,9 @@
+C:\Users\Aatu\Desktop\Uusi kansio (2)\Win\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Aatu\Desktop\Uusi kansio (2)\Win\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Aatu\Desktop\Uusi kansio (2)\Win\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Aatu\Desktop\Uusi kansio (2)\Win\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Aatu\Desktop\Uusi kansio (2)\Win\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Aatu\Desktop\Uusi kansio (2)\Win\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Aatu\Desktop\Uusi kansio (2)\Win\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Aatu\Desktop\Uusi kansio (2)\Win\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Aatu\Desktop\Uusi kansio (2)\Win\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
